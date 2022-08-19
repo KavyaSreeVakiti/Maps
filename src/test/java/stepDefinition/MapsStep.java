@@ -30,5 +30,4 @@ public class MapsStep
     {
         System.out.println("user registration should be successful");
     }
-// Maps are running successful
 }
