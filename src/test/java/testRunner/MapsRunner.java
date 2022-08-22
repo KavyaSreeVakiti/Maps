@@ -12,3 +12,4 @@ import org.junit.runner.RunWith;
 public class MapsRunner
 {
 }
+// Test Runner is running successfully
