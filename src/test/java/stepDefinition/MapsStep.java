@@ -28,7 +28,7 @@ public class MapsStep
 
     public void user_registration_should_be_successful()
     {
-        System.out.println("user registration should be successful");
+        System.out.println("user registration is not successful");// code is changed by person A1
     }
 // HI KAVYA
     // GITHUB successful
